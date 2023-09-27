@@ -8,6 +8,6 @@ The user inputs the country they want to check on, the code then requests the AP
 4. Tax Revenue
 5. GDP growth rate
 6. Population
-7. POverty rate
+7. Poverty rate
 
- After that, it plots in multiple line graphs displayed in separate image files.  I hope you can contribute to project by adding to the code. I request your help building an engine that aims to  predict future figures on the 7 indicators listed above.
+ After that, it plots in multiple line graphs displayed in separate image files.  I hope you can contribute to the project by adding to the code. I request your help building an engine that aims to  predict future figures on the 7 indicators listed above.
